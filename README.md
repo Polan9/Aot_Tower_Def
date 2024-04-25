@@ -1,6 +1,11 @@
 Tower Defense Game Prototype 
 
+For now i have this features:
 
+- Simple enemy ai
+- Enemy logic for damaging base
+- troops placement system (prototype)
+- gunner troop logic
 
 
 

@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: a943ebb60906a0641ade9130a70be8c6
+timeCreated: 1511891362
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Mortar
+    100002: //RootNode
+    100004: Mortar_Base
+    100006: Mortar_Base_Launcher
+    100008: Mortar_Base_Launcher_HE
+    400000: Mortar
+    400002: //RootNode
+    400004: Mortar_Base
+    400006: Mortar_Base_Launcher
+    400008: Mortar_Base_Launcher_HE
+    2300000: Mortar
+    2300002: Mortar_Base
+    2300004: Mortar_Base_Launcher
+    2300006: Mortar_Base_Launcher_HE
+    3300000: Mortar
+    3300002: Mortar_Base
+    3300004: Mortar_Base_Launcher
+    3300006: Mortar_Base_Launcher_HE
+    4300000: Mortar
+    4300002: Mortar_Base
+    4300004: Mortar_Base_Launcher
+    4300006: Mortar_Base_Launcher_HE
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MortarMat
+    second: {fileID: 2100000, guid: aac5439e170fda74297bb5e62f4bb61a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mortar_BaseMat
+    second: {fileID: 2100000, guid: ed3fe184546b2ae41a17b9f356e68122, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mortar_Base_LauncherMat
+    second: {fileID: 2100000, guid: 7315cfaa09438d447afa4dcc463cab81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mortar_Base_Launcher_HEMat
+    second: {fileID: 2100000, guid: 597270fec46d77a4ab3d251bc481b3bc, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2.5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 2
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

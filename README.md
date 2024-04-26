@@ -6,6 +6,7 @@ For now i have this features:
 - Enemy logic for damaging base
 - troops placement system (prototype)
 - gunner troop logic
+- camera movement system
 
 
 
